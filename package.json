@@ -1,6 +1,6 @@
 {
-  "name": "micro",
-  "version": "9.3.4",
+  "name": "micro-with-es",
+  "version": "1.0.3",
   "description": "Asynchronous HTTP microservices",
   "main": "./lib/index.js",
   "files": [
@@ -18,7 +18,7 @@
   "engines": {
     "node": ">= 8.0.0"
   },
-  "repository": "zeit/micro",
+  "repository": "PonomareVlad/micro",
   "keywords": [
     "micro",
     "service",
